@@ -1,0 +1,4 @@
+# 爬取StackOverflow IDE tag分析需求
+基于scrapy爬虫框架对Stack Overflow IDE tag页面进行爬取获得所有问题的标题和tag然后编写词频分析代码对所有标题进行单词统计并去掉一些无关紧要的单词得到用户比较关心的关于IDE的问题  
+通过分析后得到smartIDE的需求  
+
